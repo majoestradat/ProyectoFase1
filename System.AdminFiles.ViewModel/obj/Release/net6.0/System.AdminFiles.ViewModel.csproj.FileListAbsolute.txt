@@ -1,0 +1,12 @@
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.ViewModel\bin\Release\net6.0\System.AdminFiles.ViewModel.deps.json
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.ViewModel\bin\Release\net6.0\System.AdminFiles.ViewModel.dll
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.ViewModel\bin\Release\net6.0\System.AdminFiles.ViewModel.pdb
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.ViewModel\obj\Release\net6.0\System.AdminFiles.ViewModel.csproj.AssemblyReference.cache
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.ViewModel\obj\Release\net6.0\System.AdminFiles.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.ViewModel\obj\Release\net6.0\System.AdminFiles.ViewModel.AssemblyInfoInputs.cache
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.ViewModel\obj\Release\net6.0\System.AdminFiles.ViewModel.AssemblyInfo.cs
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.ViewModel\obj\Release\net6.0\System.AdminFiles.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.ViewModel\obj\Release\net6.0\System.AdminFiles.ViewModel.dll
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.ViewModel\obj\Release\net6.0\refint\System.AdminFiles.ViewModel.dll
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.ViewModel\obj\Release\net6.0\System.AdminFiles.ViewModel.pdb
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.ViewModel\obj\Release\net6.0\ref\System.AdminFiles.ViewModel.dll
