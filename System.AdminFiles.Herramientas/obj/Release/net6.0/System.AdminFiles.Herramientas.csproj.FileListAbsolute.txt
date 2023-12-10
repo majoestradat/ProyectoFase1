@@ -1,0 +1,15 @@
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\bin\Release\net6.0\System.AdminFiles.Herramientas.deps.json
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\bin\Release\net6.0\System.AdminFiles.Herramientas.dll
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\bin\Release\net6.0\System.AdminFiles.Herramientas.pdb
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\bin\Release\net6.0\System.AdminFiles.ViewModel.dll
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\bin\Release\net6.0\System.AdminFiles.ViewModel.pdb
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\obj\Release\net6.0\System.AdminFiles.Herramientas.csproj.AssemblyReference.cache
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\obj\Release\net6.0\System.AdminFiles.Herramientas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\obj\Release\net6.0\System.AdminFiles.Herramientas.AssemblyInfoInputs.cache
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\obj\Release\net6.0\System.AdminFiles.Herramientas.AssemblyInfo.cs
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\obj\Release\net6.0\System.AdminFiles.Herramientas.csproj.CoreCompileInputs.cache
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\obj\Release\net6.0\System.AdminFiles.Herramientas.csproj.CopyComplete
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\obj\Release\net6.0\System.AdminFiles.Herramientas.dll
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\obj\Release\net6.0\refint\System.AdminFiles.Herramientas.dll
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\obj\Release\net6.0\System.AdminFiles.Herramientas.pdb
+C:\Users\jiest\source\repos\FileUpload\System.AdminFiles\System.AdminFiles.Herramientas\obj\Release\net6.0\ref\System.AdminFiles.Herramientas.dll
